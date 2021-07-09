@@ -1,0 +1,8 @@
+*.bak
+*~
+.*.swp
+.build
+.perlcritic_package.yml
+Perl-PrereqScanner-Scanner-TestNeeds-*
+dzil-bundle
+tmp
