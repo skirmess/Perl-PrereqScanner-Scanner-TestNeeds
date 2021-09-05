@@ -17,8 +17,8 @@ Version 0.001
 
 # DESCRIPTION
 
-This is a scanner for [Perl::PrereqScanner](https://metacpan.org/pod/Perl::PrereqScanner) that finds modules used with
-[Test::Needs](https://metacpan.org/pod/Test::Needs).
+This is a scanner for [Perl::PrereqScanner](https://metacpan.org/pod/Perl%3A%3APrereqScanner) that finds modules used with
+[Test::Needs](https://metacpan.org/pod/Test%3A%3ANeeds).
 
 Note: The scanner currently does not detect modules loaded with the
 `test_needs` sub, only modules used with a use statement are detected.
@@ -27,7 +27,7 @@ Note: The scanner currently does not detect modules loaded with the
 
 # SEE ALSO
 
-[Perl::PrereqScanner](https://metacpan.org/pod/Perl::PrereqScanner), [Test::Needs](https://metacpan.org/pod/Test::Needs)
+[Perl::PrereqScanner](https://metacpan.org/pod/Perl%3A%3APrereqScanner), [Test::Needs](https://metacpan.org/pod/Test%3A%3ANeeds)
 
 # SUPPORT
 
