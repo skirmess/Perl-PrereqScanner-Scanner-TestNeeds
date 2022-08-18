@@ -35,4 +35,3 @@ resources:
   homepage: https://github.com/skirmess/Perl-PrereqScanner-Scanner-TestNeeds
   repository: https://github.com/skirmess/Perl-PrereqScanner-Scanner-TestNeeds.git
 version: '0.001'
-x_spdx_expression: BSD-2-Clause-FreeBSD
